@@ -31,33 +31,23 @@ nav ul li a{
     font-weight: bold;
     margin-top: 20px;
 }
-.text.box{
-    padding-top: 100px;
-    background-color: orange;
-}
-.members{
-    padding-bottom: 100px;
+.text{
+    
+    float:left;
+    margin-right: 20px;
+    
 }
 
-.h1{
-    float: left;
-    padding: 70px;
-    margin-right: 0px;
-    font-size: 20px;
-    height: 50px;
-}
 .btn{
     background-color: blue;
 }
 .im img{
     float: right;
-    border-radius: 400px;
-    border: 5% solid grey;
+    border-radius: 500px;
+    border: 7% solid grey;
+    margin-left: 20%;
+    padding-top: 10%;
 }
-
-
-
-
 .product{
     height: 200px;
     display: flex;
@@ -66,40 +56,43 @@ nav ul li a{
 }
 .head{
     background-color: #E8FAFC;
-    height:700px
+    height:900px
 }
 .Services{
     float: left;
     font-weight: bold;
 }
-
-
-
+.need{
+    float:right;
+    margin-right: 3%;
+}
 .column-1{
     display: flex;
+    padding-top: 11%;
     
 }
 .radio{
     padding: 40px;
-
     background-color: beige;
-    margin-right:4%;
+    margin-left:-17%;
+    width:19%;
 
 }
 .Ambulance{
-    padding: 40px;
+    padding: 38px;
      background-color:beige ;
-    margin-right:  110px;
+    margin-left:10%;
+    width: 22%;
 }
 .Dental{
-    padding: 40px;
+    padding: 50px;
     background-color: beige;
-    margin-right: 110px;
-    width:400px;
+    margin-left: 20%;
     
 }
 .column-2{
     display: flex;
+    padding-top: 7%;
 }
 .Surgical{
     padding: 40px;
@@ -113,7 +106,7 @@ nav ul li a{
     margin: 4%;
     
 }
-.pet{
+.ph{
     padding: 40px;
     background-color:beige ;
     margin: 4%;
@@ -124,9 +117,7 @@ nav ul li a{
 .column-3{
     float:right;
     margin-right: 150px;
-    
-    
-}
+    }
 .imge img{
     float:left;
     margin-left: 150px;
@@ -134,40 +125,51 @@ nav ul li a{
     
 }
 .column-4{
-    padding-top: 400px;
-    
-
-}
+    height:1000px
+    }
 .patients{
     float: left;
     padding-top: 50px;
-    margin-right: 20%;
+    margin-right:70%;
 }
-    float:right;
-    padding-bottom: 600px;
 .comment{
-
+    margin-right:0%;
+    padding-bottom:50px;
 }
 .interests{
     display:inline-block;
     padding-bottom:40px;
     float:right;
-    border:3px solid black ;
     margin-right: 5%;
+    margin-top: 5%;
     
     
 }
 .Cheap{
     display: flex;
-    
-    border: 3px solid black;
     display: inline-block;
-    margin-top: 5%;
-    margin-left:5% ;
+    margin-top:5%;
+    /* margin-left:5% ; */
+    margin-bottom: 40%;
 
 }
+.photo img{
+    border-radius: 1px;
+}
+.imag img{
+    margin-right: 80%;
+}
+.star{
+    color: orange;
+}
+.stars{
+    color: orange;
+}
+    
+
 .column-5{
     background-color:#EDFBFD;
+    padding-top: 50px;
     
 
 }
@@ -175,20 +177,40 @@ nav ul li a{
     font-size: 20px;
     margin-left: 3%;
 }
+.see{
+    float: right;
+    margin-bottom:30px
+}
 
 
 
 .imaage{
     margin-left: 3%;
+    display:flex
 }
+.dc{
+    margin-right: 50px;
+}
+.male{
+    margin-right: 30px;
+}
+.DT{
+    margin-right: 30px;
+    text-align: center;
+    width:20px;
+    
 
+}
+.nme{
+    margin-top: 35%;
+    display: flex;
+}
 .Blog{
     text-align:center;
-    
-    height: 200px;
     width: 650px;
     background-color:#C5F2F7 ;
     margin-left: 25%;
+    height: 90px;
 }
 
 .column-6{
@@ -201,7 +223,8 @@ nav ul li a{
 
 }
 .pet{
-    padding-bottom: 100px;
+     margin-left: 9%;
+     
     
 }
 .product{
