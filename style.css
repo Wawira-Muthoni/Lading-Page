@@ -1,6 +1,6 @@
 .column{
     background-color: #EFFBFD;
-    height: 800px;
+    height: 600px;
     
     
 }
@@ -31,6 +31,10 @@ nav ul li a{
     font-weight: bold;
     margin-top: 20px;
 }
+.vet{
+    color:orange
+}  
+
 .text{
     
     float:left;
@@ -40,13 +44,16 @@ nav ul li a{
 
 .btn{
     background-color: blue;
+    border-radius: 1px;
+
 }
+
 .im img{
     float: right;
-    border-radius: 500px;
-    border: 7% solid grey;
-    margin-left: 20%;
-    padding-top: 10%;
+    border-radius: 90%;
+    border: 50% solid grey ;
+    margin-left: 30%;
+    padding-top: 
 }
 .product{
     height: 200px;
@@ -73,21 +80,30 @@ nav ul li a{
 }
 .radio{
     padding: 40px;
-    background-color: beige;
+    background-color: white;
     margin-left:-17%;
     width:19%;
 
 }
+.env{
+    color:blue
+}
 .Ambulance{
     padding: 38px;
-     background-color:beige ;
+     background-color:white ;
     margin-left:10%;
     width: 22%;
 }
+.circle{
+    color:blue
+}
+.arrow{
+    color:blue;
+}
 .Dental{
     padding: 50px;
-    background-color: beige;
-    margin-left: 20%;
+    background-color: white;
+    margin-left: 10%;
     
 }
 .column-2{
@@ -96,20 +112,29 @@ nav ul li a{
 }
 .Surgical{
     padding: 40px;
-    background-color:beige ;
+    background-color:white ;
     margin: 4%;
     
+}
+.square{
+    color: blue;
 }
 .Parturition{
     padding: 40;
-    background-color:beige ;
+    background-color:white ;
     margin: 4%;
     
 }
+.paw{
+    color: blue;
+}
 .ph{
     padding: 40px;
-    background-color:beige ;
+    background-color:white ;
     margin: 4%;
+}
+.building{
+    color: blue;
 }
 .section2{
     background-color:#E8FAFC;
@@ -125,7 +150,8 @@ nav ul li a{
     
 }
 .column-4{
-    height:1000px
+    height:1000px;
+    background-color: #E6FDFD;
     }
 .patients{
     float: left;
@@ -142,16 +168,25 @@ nav ul li a{
     float:right;
     margin-right: 5%;
     margin-top: 5%;
+    border-block: 1px;
     
     
+}
+.quot{
+    color: lightblue;
+    size: 20%;
 }
 .Cheap{
     display: flex;
     display: inline-block;
     margin-top:5%;
-    /* margin-left:5% ; */
+     margin-left:10% ; 
     margin-bottom: 40%;
 
+}
+.quote{
+    color: lightblue;
+    size:20%;
 }
 .photo img{
     border-radius: 1px;
@@ -212,6 +247,11 @@ nav ul li a{
     margin-left: 25%;
     height: 90px;
 }
+.Sub{
+    background-color: #C5F2F7;
+    font-size: 2px;
+    border-radius: 3%;
+}
 
 .column-6{
     background-color:#EDFBFD;
@@ -227,6 +267,22 @@ nav ul li a{
      
     
 }
+.sm{
+    display: flex;
+}
+.fb{
+    color:blue;
+}
+.tweet{
+    color:blue;
+}
+.google{
+    color:orangered
+}
+.linkin{
+   color: blueviolet;
+}
+
 .product{
     
     display: inline;
